@@ -120,3 +120,7 @@ function App() {
 }
 
 export default App
+
+
+// jsx 
+// tsx
